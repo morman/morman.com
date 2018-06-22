@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/morman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://morman.com
+  * I am morman (https://keybase.io/morman) on keybase.
+  * I have a public key ASA-koGhnnIndhP6mieb1vQaStNuPAW3hXXKcX33v6Agrwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203e9281a19e72277613fa9a279bd6f41a4ad36e3c05b78575ca717df7bfa020af0a",
+      "host": "keybase.io",
+      "kid": "01203e9281a19e72277613fa9a279bd6f41a4ad36e3c05b78575ca717df7bfa020af0a",
+      "uid": "820d76accf7b4857cab4626a8e59d419",
+      "username": "morman"
+    },
+    "merkle_root": {
+      "ctime": 1528812472,
+      "hash": "9ca177ae45167fb6bc984e01d27a78d52dfaa21baedb9844bfc928fad2430a9e6d3428a331bb4c43870ffaf577063fb28c05cf075578898a3db88a0fcf538290",
+      "hash_meta": "1eeffedb978c5a0170c3936adfdae1006884e665add9f5b96a20d6b6417ab433",
+      "seqno": 3064411
+    },
+    "service": {
+      "entropy": "AeqwLrufrn9untXRVWOaEHth",
+      "hostname": "morman.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528812483,
+  "expire_in": 504576000,
+  "prev": "2fa21dc263dd875dfbb9948b07ecd7e5f53870b999618d296561050a94334723",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPpKBoZ5yJ3YT+ponm9b0GkrTbjwFt4V1ynF997+gIK8Kp3BheWxvYWTESpcCB8QgL6IdwmPdh137uZSLB+zX5fU4cLmZYY0pZWEFCpQzRyPEINmlxGsmtMI1Uuh8xWjeJ9Bf9zh1y3CH3DWBI2epwovDAgHCo3NpZ8RADWbKhoj5x3dsVK1K0xfVp3Ew56gdaRZ00/RnPiIkLt/qC1e66nb6QCuBx54xCq9ak3Ql5rNXJt+Kgyn5Zu7NCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP7KhyWVBNJmA7Uco/Q0l653iefnc13NvWFLKXhYgkWho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/morman
+
+==================================================================
