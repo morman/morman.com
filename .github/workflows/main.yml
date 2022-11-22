@@ -1,4 +1,5 @@
-on: [push]
+on:
+  - push
 
 jobs:
   deploy_job:
@@ -6,7 +7,7 @@ jobs:
   name: Deploy morman.com
   steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Deploy
       uses: wlixcc/SFTP-Deploy-Action@v1.2.4
       with:
