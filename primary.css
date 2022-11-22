@@ -1,0 +1,102 @@
+/* Some styles, relying on Lucida now */
+.title {
+	font-family:lucida; 
+	font-weight:bold; 
+	color:#0000CC; 
+	font-size:18px; 
+	padding-left:1px; 
+	background-color:#FFFFFF; 
+}
+.dateline {
+        font-family:lucida;
+        font-weight:bold;
+        color:#0000FF;
+        font-size:14px;
+        padding-left:1px;
+        background-color:#FFFFFF;
+}
+.archive {
+        font-family:lucida;
+        color:#0000CC;
+        font-size:14px;
+        padding-right:5px;
+        background-color:#FFFFFF;
+}
+.journal {
+	font-family:lucida; 
+	color:#000000; 
+	font-size:12px; 
+	padding-left:5px;
+	background-color:#ffffff; 
+}
+.links {
+	font-family:lucida;
+	color:#000000;
+	font-size:14px;
+	padding-left:5px;
+	background-color:#FFFFcc;
+}
+.projects {
+	font-family:lucida;
+	color:#000000;
+	font-size:14px;
+	padding-left:5px;
+	background-color:#ccccff;
+}
+.tools {
+	font-family:lucida;
+	color:#000000;
+	font-size:14px;
+	padding-left:5px;
+	background-color:#ccccff;
+}
+.footer {
+	font-family:lucida;
+	color:#000000;
+	font-size:12px;
+	padding-right:0px;
+	background-color:#FFFFFF;
+}
+
+.onmydesk {
+	font-family:lucida;
+	color:#000000;
+	font-size:12px;
+	padding-right:5px;
+	padding-left:5px;
+	background-color:#dddddd;
+}
+
+.dailies {
+	font-family:lucida;
+	color:#000000;
+	font-size:12px;
+	padding-right:5px;
+	padding-left:5px;
+	background-color:#cccccc;
+}
+
+body {
+	background-color:#FFFFFF;
+}
+th {
+	font-family:lucida; 
+	color:#000000; 
+	font-size:12px; 
+	padding-left:5px;
+	background-color:#ffffff; 
+}
+td {
+	font-family:lucida; 
+	color:#000000; 
+	font-size:12px; 
+	padding-left:5px;
+	background-color:#ffffff; 
+}
+p {
+	font-family:lucida; 
+	color:#000000; 
+	font-size:12px; 
+	padding-left:5px;
+	background-color:#ffffff; 
+}
