@@ -1,6 +1,6 @@
-/* Some styles, relying on Lucida now */
+/* Some styles, relying on "Lucida Sans U" now */
 .title {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	font-weight:bold; 
 	color:#0000CC; 
 	font-size:18px; 
@@ -8,7 +8,7 @@
 	background-color:#FFFFFF; 
 }
 .dateline {
-        font-family:Lucida, serif;
+        font-family:"Lucida Sans U",  sans-serif;
         font-weight:bold;
         color:#0000FF;
         font-size:14px;
@@ -16,42 +16,42 @@
         background-color:#FFFFFF;
 }
 .archive {
-        font-family:Lucida, serif;
+        font-family:"Lucida Sans U",  sans-serif;
         color:#0000CC;
         font-size:14px;
         padding-right:5px;
         background-color:#FFFFFF;
 }
 .journal {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000; 
 	font-size:12px; 
 	padding-left:5px;
 	background-color:#ffffff; 
 }
 .links {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000;
 	font-size:14px;
 	padding-left:5px;
 	background-color:#FFFFcc;
 }
 .projects {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000;
 	font-size:14px;
 	padding-left:5px;
 	background-color:#ccccff;
 }
 .tools {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000;
 	font-size:14px;
 	padding-left:5px;
 	background-color:#ccccff;
 }
 .footer {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000;
 	font-size:12px;
 	padding-right:0;
@@ -59,7 +59,7 @@
 }
 
 .onmydesk {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000;
 	font-size:12px;
 	padding-right:5px;
@@ -68,7 +68,7 @@
 }
 
 .dailies {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000;
 	font-size:12px;
 	padding-right:5px;
@@ -80,21 +80,21 @@ body {
 	background-color:#FFFFFF;
 }
 th {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000; 
 	font-size:12px; 
 	padding-left:5px;
 	background-color:#ffffff; 
 }
 td {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000; 
 	font-size:12px; 
 	padding-left:5px;
 	background-color:#ffffff; 
 }
 p {
-	font-family:Lucida, serif;
+	font-family:"Lucida Sans U",  sans-serif;
 	color:#000000; 
 	font-size:12px; 
 	padding-left:5px;
