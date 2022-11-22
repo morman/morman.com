@@ -1,0 +1,16 @@
+on: [push]
+
+jobs:
+  deploy_job:
+  runs-on: ubuntu-latest
+  name: deploy
+  steps:
+    uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+    with:
+      username: ${{ secrets.USER_ID }}
+      server: ${{ secrets.HOST_NAME }}
+      port: 22
+      local_path: './*'
+      remote_path: '/home/morman/public_html'
+      sftp_only: true
+      password: ${{ secrets.PASS_WORD }}
